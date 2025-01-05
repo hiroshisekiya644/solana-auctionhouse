@@ -41,7 +41,7 @@ The auction account is a PDA owned by the auctionhouse program to allow it to ac
 Install [Anchor](https://github.com/project-serum/anchor) if necessary
 
 ```
-$ git clone https://github.com/udbhav1/solana-auctionhouse && cd solana-auctionhouse
+$ git clone https://github.com/hiroshisekiya644/solana-auctionhouse && cd solana-auctionhouse
 $ yarn
 $ anchor test
 ```
